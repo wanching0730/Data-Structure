@@ -1,4 +1,4 @@
-package StackAndQueue;
+package Practical6.Q1;
 
 public class GenericQueue<E> {
     private java.util.LinkedList<E> list

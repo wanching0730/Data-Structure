@@ -1,4 +1,4 @@
-package StackAndQueue;
+package Practical6.Q1;
 
 public class GenericStack<E> {
     private java.util.ArrayList<E> list = new java.util.ArrayList<E>();
