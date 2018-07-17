@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ade5a39a-b65b-47ac-a4f7-c908e73f8919" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackAndQueue/GenericQueue.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +25,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenericStack.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GenericStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StackAndQueue/GenericStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="713">
+              <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StackAndQueue/GenericQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-245">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="e#171#172#0" expanded="true" />
                 <element signature="e#202#203#0" expanded="true" />
@@ -66,6 +87,7 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/StackAndQueue/GenericStack.java" />
+        <option value="$PROJECT_DIR$/src/StackAndQueue/GenericQueue.java" />
       </list>
     </option>
   </component>
@@ -116,13 +138,6 @@
               <item name="Data-Structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StackAndQueue" type="462c0819:PsiDirectoryNode" />
-              <item name="GenericStack.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -251,12 +266,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531791384398</updated>
-      <workItem from="1531791388090" duration="335000" />
+      <workItem from="1531791388090" duration="566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="335000" />
+    <option name="totallyTimeSpent" value="566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="0" />
@@ -312,8 +327,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StackAndQueue/GenericStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="713">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackAndQueue/GenericQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="e#171#172#0" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
